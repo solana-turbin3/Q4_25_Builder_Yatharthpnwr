@@ -1,0 +1,4 @@
+*wallet.json
+target
+.DS_Store
+Cargo.lock
