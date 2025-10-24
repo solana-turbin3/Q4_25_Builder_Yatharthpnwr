@@ -144,6 +144,4 @@ impl<'info> Take<'info> {
         msg!("close account complete!");
         Ok(())
     }
-    //Close the vaut after the withdraw is done.
-    // pub fn vault(&mut self) {}
 }
